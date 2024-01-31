@@ -1,0 +1,194 @@
+Message: element click intercepted: Element <a href="/gp/browse.html?node=1389401031&amp;ref_=nav_em_sbc_mobcomp_all_mobiles_0_2_8_2" class="hmenu-item" style="border: 2px ridge rgb(51, 255, 255);">...</a> is not clickable at point (53, 73). Other element would receive the click: <a href="/" class="hmenu-item hmenu-back-button" aria-label="Back to main menu" data-ref-tag="nav_em_1_8_BT_0_main_menu">...</a>
+  (Session info: chrome=115.0.5790.170)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BFA813+48355]
+	(No symbol) [0x00B8C4B1]
+	(No symbol) [0x00A95358]
+	(No symbol) [0x00AC5062]
+	(No symbol) [0x00AC3B98]
+	(No symbol) [0x00AC239B]
+	(No symbol) [0x00AC179E]
+	(No symbol) [0x00AB9F5C]
+	(No symbol) [0x00ADA73C]
+	(No symbol) [0x00AB9A36]
+	(No symbol) [0x00ADAA94]
+	(No symbol) [0x00AEC922]
+	(No symbol) [0x00ADA536]
+	(No symbol) [0x00AB82DC]
+	(No symbol) [0x00AB93DD]
+	GetHandleVerifier [0x00E5AABD+2539405]
+	GetHandleVerifier [0x00E9A78F+2800735]
+	GetHandleVerifier [0x00E9456C+2775612]
+	GetHandleVerifier [0x00C851E0+616112]
+	(No symbol) [0x00B95F8C]
+	(No symbol) [0x00B92328]
+	(No symbol) [0x00B9240B]
+	(No symbol) [0x00B84FF7]
+	BaseThreadInitThunk [0x758C00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x771B7B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x771B7AEE+238]
+
+All mobiles
+No. of Items = 158
+Great Freedom Sale
+Outdoor toys
+OP uber level
+Great Freedom Sale
+Amazon fashion
+Wearables uber level
+BAGS & LUGGAGE
+Budget | Under ₹10,000
+Mid range | ₹10,000 - ₹25,000
+Premium | ₹25,000 - ₹40,000
+Ultra premium | Above ₹40,000
+Great Freedom sale
+30-day Free Trial | Kindle Unlimited
+Home decor & essentials
+Cookware & Dining
+Furniture and mattresses
+Tools & home improvement
+iPhone 14 | Starting ₹89
+Samsung Galaxy S22 |Starting ₹79
+OnePlus Nord CE 3 Lite | Starting ₹79
+Redmi 12C | Starting ₹79
+Up to 70% off | Home & kitchen
+Up to 70% off | Electronic accessories
+Up to 60% off | Daily essentials
+Under ₹599 | Clothing, shoes & more
+Up to 35% off on medicines
+Samsung Galaxy M34
+Redmi 12C| Starting from 7699 including additional offers
+OnePlus Nord CE 3 5G | Latest launch at 24,999/- Including additional Offers
+Top Headsets from Oneplus, Samsung & More
+JBL Audio Freedom Sale Deals Live
+Daily Essentials
+Alexa Devices - Echo and Fire TV
+Skin - Biotique, Cetaphil, Himalaya
+Best Styles in Footwear and Handbags
+Best Selling Massagers
+Gas Stoves and Hobs from Top Brands
+Top Offers on Mice & Keyboards
+Cycle and Cycling accessories: Lifelong, Urban Terrain, Symactive, Hero, Gear Head Motors, Emotorad and more  Top Deals
+Realme Narzo N53 || Buy Now
+Lowest Ever Price on PS5 Console
+Ben Martin Men's Comfortable Stretchable Regular Fit & Regular Length Mid Rise Casual Wear Modern Stylish Latest Summer...
+Fila Men Hawk
+Spykar Blue Coloured Mens Jeans (Size: 34)-ECSKN-01BB-058 Mid Blue
+Amazon Brand - House & Shields Men Sweatshirt
+Glory Sarees Women's Kanchipuram Art Silk Saree With Blouse Piece
+DHRUVI TRENDZ Women saree with blouse
+ZEYO Women's Cotton Heart Printed Maternity & Feeding Night Suit Set of Top & Pyjama Nursing Night Dress 5629
+RARE Women's Synthetic a-line Knee-Long Dress
+Yashika women's art silk kalamkari bhagalpuri and kashmiri style soft saree with blouse piece (Multi-Color_Free_Size
+minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)
+Hopscotch Boys Green Cotton All-Over Print T-Shirt With Jacket & Pant Set
+Amazon Brand - Symbol Girls Pajama Top
+Lion King by Wear Your Mind Boy's Regular fit T-Shirt
+Saving upto ₹11,000
+Saving upto ₹20,000
+Saving upto ₹13,990
+Saving upto ₹9,000
+Women's Clothing
+Fashion jewellery
+Up to 70% off | International brands
+Fitness & sports
+Power tools, safety & cleaning supplies
+Car, bike, parts and accesiores
+Insect control, garden & solar
+Bella Vita Organic Exfoliate Coffee Scrub for Face & Body, Blackhead Remover, De Tan Removal Ayurveda, Dirt Removal from...
+Bella Vita Organic Kumkumadi Day Face Cream for Dry to Normal Skin for Naturally Brightens & Nourishes skin With...
+Nivea Dark Spot Reduction Face Wash, 100ml (Pack of 3)
+Bella Vita Luxury Patchouli Parfum Unisex Perfume for Men & Women with White Peach, Indonesian Patchouli | Spicy Long...
+Fogg Scent Xtremo 100ml Each (Pack of 2)
+Fogg Scent Xpressio 100ml Each (Pack of 2)
+Fogg Scent Impressio 100ml Each (Pack of 2)
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml (Pack of 2)
+Fogg I Am Queen Scent, Eau De Parfum Perfume, Long-Lasting Fresh & Floral Fragrance For Women, 100ml Each (Pack Of 2)
+Fogg Scent Make My Day For Women 100ml Each (Pack of 2)
+Fogg Scent Intensio 100ml Each (Pack of 2)
+NIVEA Waterlily and Oil Shower Gel, 250ml (Pack of 3)
+Bella Vita Organic Kumkumadi Face Glow Oil for Dry to Normal Skin for Soothing & Moisturization with Sandalwood,...
+Bella Vita Organic 3 in 1 Pomegranate Tinty - Lip, Eye & Cheek Tint & Blush with Free Applicator for Deep Moisturizing &...
+Bella Vita Organic 3 in 1 Lip, Eye & Cheek Tint, Peach Tinty Face Blush with Free Applicator, for Deep Moisturizing &...
+Nivea Pearl And Beauty Deodorant 48 Hours, 150ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic NicoBalm Natural Lip Balm for Dry Damaged & Chapped Lips Enriched with Shea Butter, Avocado 5 gm
+Bella Vita Luxury DOMINUS MAN Eau De Parfum Perfume with Agarwood, Sandalwood,Vanilla Cedar|Woody Spicy EDP Long Lasting...
+Fogg Scent Chief & Commander For Men, 100ml (Combo Of 2)
+NIVEA Deodorant, Fresh Active for Men, 150ml and Fresh Face Moisturizer Gel for Men, 75ml
+Nivea Frangipani And Oil Shower Gel, 250ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic Face and Body Butter Lotion Glowtion for Deep Hydration, Moisturization, Skin Repair & Brightening...
+Bella Vita Organic Anti Acne Face Wash for Oil Control, Pimples Marks Removal and Glowing Skin for Women & Men with...
+Fogg Long-Lasting Fresh, Exotic & Soothing Fragrance Intensio Scent For Men, Eau De Parfum, 100ml
+Dabur Vatika Enriched Coconut Hair Oil - 600 ml (300mlx2) | For Strong, Thick & Shiny Hair | Clinically Tested to Reduce...
+Dabur Almond Hair Oil - 580ml(290ml*2) | Provides Damage Protection | Non Sticky Formula | For  Soft & Shiny Hair | With...
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Fogg Make My Day Scent, Eau De Parfum, Women’s Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Get up to 17% off on flight tickets
+Mobile accessories | Starting '69
+Headsets | Starting '179
+Powerbanks | Starting '699
+Chargers| Starting '69
+Cables | Starting '49
+Cases and Covers | Starting '79
+Mobile holders & more | Starting '89
+Screen protectors | Starting '79
+See all
+See all offers
+Health & household
+Baby care
+Pet supplies
+Starting ₹99 | Diapers & wipes
+Starting ₹149 | Soft toys
+Starting ₹299 | Baby rockers & more
+Starting ₹699 | Games & outdoor toys
+Mi TV
+TCL TV
+Samsung TV
+Hisense TV
+Womanista Women's Floral Printed Poly Georgette Saree with Moti Lace (TKIM740_Pink)
+Womanista Women's Floral Printed Poly Georgette Saree with Mirror Lace (TKIM811_Black)
+Amazon Brand - Symbol Men's Regular Fit Formal Shirt
+Bourge Men's Loire-z126 Running Shoes
+Womanista Women's Batik Print Georgette Saree with Pom (TI1425_Off White & Brown)
+Lymio Women Top (526-576)
+Amazon Brand - Symbol Men Active Regular Fit T-Shirt
+GRECIILOOKS Western Dresses for Women | A-Line Knee-Length Dress | Midi Western Dress for Women| Short Dress
+Amazon Brand - Symbol Men's Regular Track Pants
+Amazon Brand - House & Shields Men's Slim Joggers
+Amazon Brand - Eden & Ivy Women Cotton Knee Length Night Gown
+Centrino Men's 7957 Formal
+Womanista Women's Jacquard Georgette Saree with Blouse
+Amazon Brand - Symbol Men's Relaxed Fit Stretchable Jeans
+Amazon Brand - Symbol Men Regular Shorts
+Amazon Brand - Symbol Men's Regular Shirt
+Amazon Brand - INKAST Men Casual Shirt
+GRECIILOOKS Women's Casual Ruffle Sleeve V-Neck Rayon Printed Tops for Girls| Long Formal Women Tops
+Womanista Women's Digital Floral Print Saree Satin With Blouse piece (TI2636_Multicolor)
+Amazon Brand - Symbol Women's Cotton Regular Fit T-Shirt
+GRECIILOOKS Western Dresses for Women | A-Line Above Knee-Length Dress | Western Dress for Women| Short Dress
+Amazon Brand - Symbol Men's Cotton Regular Printed Boxer Shorts (Pack of 2) (SYMBXPO2-23_3677 & 3921_Multicolour1_M)
+Amazon Brand - Eden & Ivy Women's Relaxed Fit Cotton Nightdress
+Amazon Brand - Myx Women Night Suit Set
+Amazon Brand - Symbol Men Formal Shirt
+Laundry & cleaners
+Cooking ingredients
+Baby care
+Starting ₹429 | Dish drainer & more
+Starting ₹349 | Kitchen tools
+Starting ₹599 | Spice racks & more
+Starting ₹149 | Explore all deals
+Noise canceling headphones
+Learning & educational toys
+Soft toys
+Bikes, trikes & ride ons
+Party supplies
+Mobiles & accessories
+Home and Kitchen
+Amazon Fashion
+Daily essentials
+Made for Amazon brands
+Alexa Devices
+
+
+An exception of type TimeoutException occurred. With Element -: all_brands - locator: (xpath, //span[text()='Brands']/../following-sibling::ul)

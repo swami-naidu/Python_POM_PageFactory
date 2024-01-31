@@ -1,0 +1,215 @@
+Message: element click intercepted: Element <a href="/gp/browse.html?node=1389401031&amp;ref_=nav_em_sbc_mobcomp_all_mobiles_0_2_8_2" class="hmenu-item" style="border: 2px ridge rgb(51, 255, 255);">...</a> is not clickable at point (69, 73). Other element would receive the click: <a href="/" class="hmenu-item hmenu-back-button" aria-label="Back to main menu" data-ref-tag="nav_em_1_8_BT_0_main_menu">...</a>
+  (Session info: chrome=115.0.5790.170)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F0A813+48355]
+	(No symbol) [0x00E9C4B1]
+	(No symbol) [0x00DA5358]
+	(No symbol) [0x00DD5062]
+	(No symbol) [0x00DD3B98]
+	(No symbol) [0x00DD239B]
+	(No symbol) [0x00DD179E]
+	(No symbol) [0x00DC9F5C]
+	(No symbol) [0x00DEA73C]
+	(No symbol) [0x00DC9A36]
+	(No symbol) [0x00DEAA94]
+	(No symbol) [0x00DFC922]
+	(No symbol) [0x00DEA536]
+	(No symbol) [0x00DC82DC]
+	(No symbol) [0x00DC93DD]
+	GetHandleVerifier [0x0116AABD+2539405]
+	GetHandleVerifier [0x011AA78F+2800735]
+	GetHandleVerifier [0x011A456C+2775612]
+	GetHandleVerifier [0x00F951E0+616112]
+	(No symbol) [0x00EA5F8C]
+	(No symbol) [0x00EA2328]
+	(No symbol) [0x00EA240B]
+	(No symbol) [0x00E94FF7]
+	BaseThreadInitThunk [0x758C00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x771B7B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x771B7AEE+238]
+
+All mobiles
+No. of Items = 178
+Great Freedom Sale
+Outdoor toys
+Main AugArt23
+Great Freedom Sale
+Home & kitchen
+BAGS & LUGGAGE
+Budget | Under ₹10,000
+Mid range | ₹10,000 - ₹25,000
+Premium | ₹25,000 - ₹40,000
+Ultra premium | Above ₹40,000
+Great Freedom sale
+30-day Free Trial | Kindle Unlimited
+Home decor & essentials
+Cookware & Dining
+Furniture and mattresses
+Tools & home improvement
+iPhone 14 | Starting ₹89
+Samsung Galaxy S22 |Starting ₹79
+OnePlus Nord CE 3 Lite | Starting ₹79
+Redmi 12C | Starting ₹79
+Up to 35% off on medicines
+Up to 70% off | Home & kitchen
+Up to 70% off | Electronic accessories
+Up to 60% off | Daily essentials
+Under ₹599 | Clothing, shoes & more
+Samsung Galaxy M34
+Redmi 12C| Starting from 7699 including additional offers
+OnePlus Nord CE 3 5G | Latest launch at 24,999/- Including additional Offers
+Top Headsets from Oneplus, Samsung & More
+JBL Audio Freedom Sale Deals Live
+Daily Essentials
+Skin - Biotique, Cetaphil, Himalaya
+Alexa Devices - Echo and Fire TV
+Best Selling Massagers
+Best Styles in Footwear and Handbags
+Top Offers on Mice & Keyboards
+Cycle and Cycling accessories: Lifelong, Urban Terrain, Symactive, Hero, Gear Head Motors, Emotorad and more  Top Deals
+Gas Stoves and Hobs from Top Brands
+Lowest Ever Price on PS5 Console
+Amazon Basics True Wireless in-Ear Earbuds with Mic, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 40 Hours...
+AmazonBasics 5W Bluetooth 5.0 Speaker, Upto 36 Hrs Playtime, True Wireless Technology, Built in Mic, Multiple...
+Amazon Basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode (Up to 50 ms), Touch Control, IPX5,...
+Amazon Basics Bluetooth Speaker, IPX6 Water Resistant, TWS Function, 9W, Powerful Bass, BT 5.0, Up to 15hrs Playtime*,...
+Amazon Basics True Wireless in-Ear Earbuds with Mic, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 40 Hours...
+Amazon Basics Bluetooth Speaker, IPX5 Waterproof, TWS Function, 9W, Powerful Bass, BT 5.0, Up to 15hrs Playtime*,...
+AmazonBasics 5W Bluetooth 5.0 Speaker, Upto 36 Hrs Playtime, True Wireless Technology, Built in Mic, Multiple...
+Amazon Basics Bluetooth 5.0 Neckband, IPX-6 Rated, Up to 42 Hours Playtime, Magnetic in Ear Earbuds, Voice Assistant,...
+AmazonBasics Bluetooth Speaker 5.0 Soundbar with 16W RMS, 2000mAh Battery, Upto 19 Hrs Playtime Aux/USB Port (Black)
+AmazonBasics Bluetooth 9W Speaker, with TWS Function, Powerful Bass, BT 5.1, MicroSD Card Slot, RGB Lights, AUX Input,...
+Amazon Basics Bluetooth Speaker 5.0 Soundbar with 16W RMS, 2000mAh Battery, Upto 19 Hrs Playtime Aux/USB Port (Blue)
+Amazon Basics in-Ear Wireless Neckband with Mic, Up to 65 Hours Play Time, 800 mAh Battery, Bluetooth 5.0, Voice...
+Amazon Basics in-Ear Wireless Neckband with Mic, Up to 65 Hours Play Time, 800 mAh Battery, Bluetooth 5.0, Voice...
+AmazonBasics Truly Wireless in Ear Earbuds with ENC Quad Mic, IPX5 Water Resistant, Bluetooth 5.3, Up to 28 Hours...
+AmazonBasics Truly Wireless in Ear Earbuds with Built-in Mic, Touch Control, IPX5 Water Resistant, Bluetooth 5.3, Up to...
+Amazon Basics in-Ear Bluetooth 5.0 Neckband with Up to 30 Hours Playtime, Magnetic Earbuds, Voice Assistant, Dual...
+Amazon Basics in-Ear Bluetooth 5.0 Neckband with Up to 30 Hours Playtime, Magnetic Earbuds, Voice Assistant, Dual...
+Amazon Basics Bluetooth Speaker, IPX5 Waterproof, TWS Function, 9W, Powerful Bass, BT 5.0, Up to 15hrs Playtime*,...
+Saving upto ₹11,000
+Saving upto ₹20,000
+Saving upto ₹13,990
+Saving upto ₹9,000
+Women's Clothing
+Fashion jewellery
+Up to 70% off | International brands
+Fitness & sports
+Power tools, safety & cleaning supplies
+Car, bike, parts and accesiores
+Insect control, garden & solar
+Ben Martin Men's Comfortable Stretchable Regular Fit & Regular Length Mid Rise Casual Wear Modern Stylish Latest Summer...
+Fila Men Hawk
+Spykar Blue Coloured Mens Jeans (Size: 34)-ECSKN-01BB-058 Mid Blue
+Amazon Brand - House & Shields Men Sweatshirt
+Glory Sarees Women's Kanchipuram Art Silk Saree With Blouse Piece
+DHRUVI TRENDZ Women saree with blouse
+ZEYO Women's Cotton Heart Printed Maternity & Feeding Night Suit Set of Top & Pyjama Nursing Night Dress 5629
+RARE Women's Synthetic a-line Knee-Long Dress
+Yashika women's art silk kalamkari bhagalpuri and kashmiri style soft saree with blouse piece (Multi-Color_Free_Size
+minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)
+Hopscotch Boys Green Cotton All-Over Print T-Shirt With Jacket & Pant Set
+Amazon Brand - Symbol Girls Pajama Top
+Lion King by Wear Your Mind Boy's Regular fit T-Shirt
+Get up to 17% off on flight tickets
+Mobile accessories | Starting '69
+Headsets | Starting '179
+Powerbanks | Starting '699
+Chargers| Starting '69
+Cables | Starting '49
+Cases and Covers | Starting '79
+Mobile holders & more | Starting '89
+Screen protectors | Starting '79
+See all
+See all offers
+Health & household
+Baby care
+Pet supplies
+Starting ₹429 | Dish drainer & more
+Starting ₹349 | Kitchen tools
+Starting ₹599 | Spice racks & more
+Starting ₹149 | Explore all deals
+Mi TV
+Bella Vita Organic Exfoliate Coffee Scrub for Face & Body, Blackhead Remover, De Tan Removal Ayurveda, Dirt Removal from...
+Bella Vita Organic Kumkumadi Day Face Cream for Dry to Normal Skin for Naturally Brightens & Nourishes skin With...
+Nivea Dark Spot Reduction Face Wash, 100ml (Pack of 3)
+Bella Vita Luxury Patchouli Parfum Unisex Perfume for Men & Women with White Peach, Indonesian Patchouli | Spicy Long...
+Fogg Scent Xtremo 100ml Each (Pack of 2)
+Fogg Scent Xpressio 100ml Each (Pack of 2)
+Fogg Scent Impressio 100ml Each (Pack of 2)
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml (Pack of 2)
+Fogg I Am Queen Scent, Eau De Parfum Perfume, Long-Lasting Fresh & Floral Fragrance For Women, 100ml Each (Pack Of 2)
+Fogg Scent Make My Day For Women 100ml Each (Pack of 2)
+Fogg Scent Intensio 100ml Each (Pack of 2)
+NIVEA Waterlily and Oil Shower Gel, 250ml (Pack of 3)
+Bella Vita Organic Kumkumadi Face Glow Oil for Dry to Normal Skin for Soothing & Moisturization with Sandalwood,...
+Bella Vita Organic 3 in 1 Pomegranate Tinty - Lip, Eye & Cheek Tint & Blush with Free Applicator for Deep Moisturizing &...
+Bella Vita Organic 3 in 1 Lip, Eye & Cheek Tint, Peach Tinty Face Blush with Free Applicator, for Deep Moisturizing &...
+Nivea Pearl And Beauty Deodorant 48 Hours, 150ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic NicoBalm Natural Lip Balm for Dry Damaged & Chapped Lips Enriched with Shea Butter, Avocado 5 gm
+Bella Vita Luxury DOMINUS MAN Eau De Parfum Perfume with Agarwood, Sandalwood,Vanilla Cedar|Woody Spicy EDP Long Lasting...
+Fogg Scent Chief & Commander For Men, 100ml (Combo Of 2)
+NIVEA Deodorant, Fresh Active for Men, 150ml and Fresh Face Moisturizer Gel for Men, 75ml
+Nivea Frangipani And Oil Shower Gel, 250ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic Face and Body Butter Lotion Glowtion for Deep Hydration, Moisturization, Skin Repair & Brightening...
+Bella Vita Organic Anti Acne Face Wash for Oil Control, Pimples Marks Removal and Glowing Skin for Women & Men with...
+Fogg Long-Lasting Fresh, Exotic & Soothing Fragrance Intensio Scent For Men, Eau De Parfum, 100ml
+Dabur Vatika Enriched Coconut Hair Oil - 600 ml (300mlx2) | For Strong, Thick & Shiny Hair | Clinically Tested to Reduce...
+Dabur Almond Hair Oil - 580ml(290ml*2) | Provides Damage Protection | Non Sticky Formula | For  Soft & Shiny Hair | With...
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Fogg Make My Day Scent, Eau De Parfum, Women’s Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Blaupunkt Newly Launched SBA15 Gaming 16W Bluetooth Soundbar with 1200 mAh Battery I Gaming RGB Lights I TurboVolt...
+JBL Flip 5 Wireless Portable Bluetooth Speaker, Signature Sound with Powerful Bass Radiator, Vibrant Colors with Rugged...
+boAt Stone 1450 Portable Wireless Speaker with 40W RMS Signature Sound, RGB LEDs, TWS Feature, Multi-Compatibility...
+JBL Partybox 110 | Wireless Bluetooth Party Speaker | 160W Monstrous Pro Sound | Dynamic Light Show | Upto 12Hrs...
+JBL Xtreme 2, Wireless Portable Bluetooth Speaker, Signature Sound with Powerful Bass Radiator, 10000mAh Built-in...
+Samsung Soundbar (HW-B67E/XL) 5.1 Channel, Wireless Subwoofer, 1x Wireless Rear Speaker, 1x Center Speaker and Energy...
+Bose New Smart Soundbar 600 Dolby Atmos with Alexa Built-in, Bluetooth connectivity
+ZEBRONICS Zeb-JUKEBAR 3900, 80W Multimedia soundbar with subwoofer Supporting Bluetooth, HDMI(ARC), Coaxial Input, AUX,...
+boAt Aavante Bar 3200D Soundbar with Dolby Audio,350W RMS Signature Sound,5.1 Channel,3D Surround Sound,Dual Wireless...
+JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, JBL Signature Sound, Vibrant Color Options with IPX7 Waterproof...
+JBL Pulse 5, Wireless Portable Bluetooth Speaker, 40 Watt, Customized 360° Lightshow Portable App, Pro Sound, Deep Bass,...
+Blaupunkt Newly Launched SBW550 5.1 Home Theater Surround Soundbar with Rear Satellites I 300W RMS with 20.32cm...
+JBL Charge 5, Wireless Portable Bluetooth Speaker Pro Sound, 20 Hrs Playtime, Powerful Bass Radiators, Built-in 7500mAh...
+Sony SA-D40 4.1 Channel Multimedia Speaker System with Bluetooth (Black)
+JBL Partybox 310 | Portable Bluetooth Party Speaker | 240W Monstrous Pro Sound | Dynamic Light Show | Backlit Panel |...
+boAt Aavante Bar Tune Soundbar with 60W RMS Signature Sound, 2.0 Channel, Multi-Connectivity Modes, BT v5.3, EQ Modes,...
+Zebronics Zeb-Space Deck PRO Wireless Bluetooth 40W Boombox Party Portable Speaker Supporting LED Display, RGB Lights,...
+boAt PartyPal 200/208 70W RMS Stereo Party Speaker with Stunning LEDs, Multi Compatibility Modes, 7HRS Playtime, TWS...
+JBL Flip 5 Wireless Portable Bluetooth Speaker, Signature Sound with Powerful Bass Radiator, Vibrant Colors with Rugged...
+Bose SoundLink Revolve+(Series II) Portable and Long-Lasting Bluetooth Speaker with 360° Wireless Surround Sound, 17...
+Blaupunkt Germany's SBW08 220W Dolby Soundbar with 8 Inch(20cm) Subwoofer, 2.1 Channel Surround Sound System with...
+Sonos Arc - The Premium Smart Soundbar for TV, Movies, Music, Gaming, and More with Dolby Atmos - Black
+boAt Aavante Bar 1500 2.1 Channel Home Theatre Soundbar with 120W Signature Sound, Wired Subwoofer, Multiple...
+boAt Stone 1450 Portable Wireless Speaker with 40W RMS Signature Sound, RGB LEDs, TWS Feature, Multi-Compatibility...
+Blaupunkt Newly Launched SBWL10 Wireless Soundbar with 8 INCH Wireless Subwoofer I HDMI ARC, Bluetooth & AUX (200W) I...
+JBL Charge 5, Wireless Portable Bluetooth Speaker Pro Sound, 20 Hrs Playtime, Powerful Bass Radiators, Built-in 7500mAh...
+JBL Bar 800 Pro, 7.1 (5.1.2) Channel Truly Wireless Soundbar with True Dolby Atmos® 3D Surround Sound, 10” Down-Firing...
+Bose SoundLink Flex Bluetooth Portable Speaker, Wireless Waterproof Speaker for Outdoor Travel - Stone Blue
+Learning & educational toys
+Soft toys
+Bikes, trikes & ride ons
+Party supplies
+Starting ₹99 | Diapers & wipes
+Starting ₹149 | Soft toys
+Starting ₹299 | Baby rockers & more
+Starting ₹699 | Games & outdoor toys
+Starting ₹429 | Dish drainer & more
+Starting ₹349 | Kitchen tools
+Starting ₹599 | Spice racks & more
+Starting ₹149 | Explore all deals
+Starting ₹99 | Diapers & wipes
+Starting ₹149 | Soft toys
+Starting ₹299 | Baby rockers & more
+Starting ₹699 | Games & outdoor toys
+Mobiles & accessories
+Home and Kitchen
+Amazon Fashion
+Daily essentials
+Made for Amazon brands
+Alexa Devices
+
+
+An exception of type TimeoutException occurred. With Element -: all_brands - locator: (xpath, //span[text()='Brands']/../following-sibling::ul)
+*********************************execution completed*************************************

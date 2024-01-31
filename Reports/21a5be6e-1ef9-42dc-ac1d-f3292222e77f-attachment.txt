@@ -1,0 +1,216 @@
+Message: element click intercepted: Element <a href="/gp/browse.html?node=1389401031&amp;ref_=nav_em_sbc_mobcomp_all_mobiles_0_2_8_2" class="hmenu-item" style="border: 2px ridge rgb(51, 255, 255);">...</a> is not clickable at point (57, 73). Other element would receive the click: <a href="/" class="hmenu-item hmenu-back-button" aria-label="Back to main menu" data-ref-tag="nav_em_1_8_BT_0_main_menu">...</a>
+  (Session info: chrome=115.0.5790.170)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BFA813+48355]
+	(No symbol) [0x00B8C4B1]
+	(No symbol) [0x00A95358]
+	(No symbol) [0x00AC5062]
+	(No symbol) [0x00AC3B98]
+	(No symbol) [0x00AC239B]
+	(No symbol) [0x00AC179E]
+	(No symbol) [0x00AB9F5C]
+	(No symbol) [0x00ADA73C]
+	(No symbol) [0x00AB9A36]
+	(No symbol) [0x00ADAA94]
+	(No symbol) [0x00AEC922]
+	(No symbol) [0x00ADA536]
+	(No symbol) [0x00AB82DC]
+	(No symbol) [0x00AB93DD]
+	GetHandleVerifier [0x00E5AABD+2539405]
+	GetHandleVerifier [0x00E9A78F+2800735]
+	GetHandleVerifier [0x00E9456C+2775612]
+	GetHandleVerifier [0x00C851E0+616112]
+	(No symbol) [0x00B95F8C]
+	(No symbol) [0x00B92328]
+	(No symbol) [0x00B9240B]
+	(No symbol) [0x00B84FF7]
+	BaseThreadInitThunk [0x758C00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x771B7B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x771B7AEE+238]
+
+All mobiles
+No. of Items = 180
+Great Freedom Sale
+Outdoor toys
+Main AugArt23
+Great Freedom Sale
+Amazon fashion
+Home & kitchen
+Wearables uber level
+BAGS & LUGGAGE
+Budget | Under ₹10,000
+Mid range | ₹10,000 - ₹25,000
+Premium | ₹25,000 - ₹40,000
+Ultra premium | Above ₹40,000
+Great Freedom sale
+30-day Free Trial | Kindle Unlimited
+Home decor & essentials
+Cookware & Dining
+Furniture and mattresses
+Tools & home improvement
+iPhone 14 | Starting ₹89
+Samsung Galaxy S22 |Starting ₹79
+OnePlus Nord CE 3 Lite | Starting ₹79
+Redmi 12C | Starting ₹79
+Up to 70% off | Home & kitchen
+Up to 70% off | Electronic accessories
+Up to 60% off | Daily essentials
+Under ₹599 | Clothing, shoes & more
+Up to 35% off on medicines
+Samsung Galaxy M34
+Redmi 12C| Starting from 7699 including additional offers
+OnePlus Nord CE 3 5G | Latest launch at 24,999/- Including additional Offers
+Top Headsets from Oneplus, Samsung & More
+JBL Audio Freedom Sale Deals Live
+Daily Essentials
+Alexa Devices - Echo and Fire TV
+Skin - Biotique, Cetaphil, Himalaya
+Best Styles in Footwear and Handbags
+Best Selling Massagers
+Gas Stoves and Hobs from Top Brands
+Top Offers on Mice & Keyboards
+Cycle and Cycling accessories: Lifelong, Urban Terrain, Symactive, Hero, Gear Head Motors, Emotorad and more  Top Deals
+Realme Narzo N53 || Buy Now
+Lowest Ever Price on PS5 Console
+Lowest prices of the Year on Smartwatches: Mustard, Compaq & more
+Ben Martin Men's Comfortable Stretchable Regular Fit & Regular Length Mid Rise Casual Wear Modern Stylish Latest Summer...
+Fila Men Hawk
+Spykar Blue Coloured Mens Jeans (Size: 34)-ECSKN-01BB-058 Mid Blue
+Amazon Brand - House & Shields Men Sweatshirt
+Glory Sarees Women's Kanchipuram Art Silk Saree With Blouse Piece
+DHRUVI TRENDZ Women saree with blouse
+ZEYO Women's Cotton Heart Printed Maternity & Feeding Night Suit Set of Top & Pyjama Nursing Night Dress 5629
+RARE Women's Synthetic a-line Knee-Long Dress
+Yashika women's art silk kalamkari bhagalpuri and kashmiri style soft saree with blouse piece (Multi-Color_Free_Size
+minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)
+Hopscotch Boys Green Cotton All-Over Print T-Shirt With Jacket & Pant Set
+Amazon Brand - Symbol Girls Pajama Top
+Lion King by Wear Your Mind Boy's Regular fit T-Shirt
+Saving upto ₹11,000
+Saving upto ₹20,000
+Saving upto ₹13,990
+Saving upto ₹9,000
+Women's Clothing
+Fashion jewellery
+Up to 70% off | International brands
+Fitness & sports
+Power tools, safety & cleaning supplies
+Car, bike, parts and accesiores
+Insect control, garden & solar
+Lion King by Wear Your Mind Boy's Regular fit T-Shirt
+layasa Comfotable Lightweight Casual Sneaker for Women/Girls
+Shining Diva Fashion Latest Stylish Multicolor Metal Choker Necklace for Women and Girls
+ZAVERI PEARLS Gold Tone Traditional Temple Choker Necklace Set For Women-ZPFK8983
+Cetaphil Face Wash Gentle Skin Cleanser for Dry to Normal, Sensitive Skin, 125 ml Hydrating Face Wash with Niacinamide,...
+Bella Vita Luxury Man Perfume Gift Set 4x20 ML for Men with Dominus, Oud, CEO, Impact Perfume|Woody, Citrusy Long...
+Himalaya Purifying Neem Face Wash, 400 Ml
+Dettol Original Germ Protection Bathing Soap Bar (625gm) | Kills 99.99% germs, 125gm , Pack of 5
+TIMEWEAR Analog Day Date Functioning Stainless Steel Chain Watch for Men
+LOUIS DEVIN LD-L144-BLU-CH Mesh Steel Chain Analog Wrist Watch for Women
+Fur Jaden 55 LTR Rucksack Travel Backpack Bag for Trekking, Hiking with Shoe Compartment
+ShopyVid® PU Leather Stylish and Trending Women Backpack for College Office Travel Bag Girls Handbag Purse Black
+Lavie Women's Betula Tote Bag | Ladies Purse Handbag
+Parachute Coconut Oil - 1 L Pet Jar
+Avimee Herbal Keshpallav Hair Oil For Men And Women | Reduces Hair Fall & Dandruff | Promotes Hair Growth | 100 Ml
+Park Avenue Pure Luxury Soap Pack of 4 500gm
+Minimalist 2% Salicylic Acid Face Wash For Oily Skin | Sulphate Free, Anti Acne Face Cleanser With Lha & Zinc For Acne...
+Dove Cream Beauty Bathing Bar 125 G (Combo Pack Of 3) With Moisturising Cream For Softer, Glowing Skin & Body -...
+Yashika women's art silk kalamkari bhagalpuri and kashmiri style soft saree with blouse piece (Multi-Color_Free_Size
+minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)
+Hopscotch Boys Green Cotton All-Over Print T-Shirt With Jacket & Pant Set
+Amazon Brand - Symbol Girls Pajama Top
+Get up to 17% off on flight tickets
+Mobile accessories | Starting '69
+Headsets | Starting '179
+Powerbanks | Starting '699
+Chargers| Starting '69
+Cables | Starting '49
+Cases and Covers | Starting '79
+Mobile holders & more | Starting '89
+Screen protectors | Starting '79
+See all
+See all offers
+Health & household
+Baby care
+Pet supplies
+Learning & educational toys
+Soft toys
+Bikes, trikes & ride ons
+Party supplies
+Mi TV
+LG TV
+Bella Vita Organic Exfoliate Coffee Scrub for Face & Body, Blackhead Remover, De Tan Removal Ayurveda, Dirt Removal from...
+Bella Vita Organic Kumkumadi Day Face Cream for Dry to Normal Skin for Naturally Brightens & Nourishes skin With...
+Nivea Dark Spot Reduction Face Wash, 100ml (Pack of 3)
+Bella Vita Luxury Patchouli Parfum Unisex Perfume for Men & Women with White Peach, Indonesian Patchouli | Spicy Long...
+Fogg Scent Xtremo 100ml Each (Pack of 2)
+Fogg Scent Xpressio 100ml Each (Pack of 2)
+Fogg Scent Impressio 100ml Each (Pack of 2)
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml (Pack of 2)
+Fogg I Am Queen Scent, Eau De Parfum Perfume, Long-Lasting Fresh & Floral Fragrance For Women, 100ml Each (Pack Of 2)
+Fogg Scent Make My Day For Women 100ml Each (Pack of 2)
+Fogg Scent Intensio 100ml Each (Pack of 2)
+NIVEA Waterlily and Oil Shower Gel, 250ml (Pack of 3)
+Bella Vita Organic Kumkumadi Face Glow Oil for Dry to Normal Skin for Soothing & Moisturization with Sandalwood,...
+Bella Vita Organic 3 in 1 Pomegranate Tinty - Lip, Eye & Cheek Tint & Blush with Free Applicator for Deep Moisturizing &...
+Bella Vita Organic 3 in 1 Lip, Eye & Cheek Tint, Peach Tinty Face Blush with Free Applicator, for Deep Moisturizing &...
+Nivea Pearl And Beauty Deodorant 48 Hours, 150ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic NicoBalm Natural Lip Balm for Dry Damaged & Chapped Lips Enriched with Shea Butter, Avocado 5 gm
+Bella Vita Luxury DOMINUS MAN Eau De Parfum Perfume with Agarwood, Sandalwood,Vanilla Cedar|Woody Spicy EDP Long Lasting...
+Fogg Scent Chief & Commander For Men, 100ml (Combo Of 2)
+NIVEA Deodorant, Fresh Active for Men, 150ml and Fresh Face Moisturizer Gel for Men, 75ml
+Nivea Frangipani And Oil Shower Gel, 250ml And Nivea Naturally Good, Natural Avocado Body Lotion, 200ml
+Bella Vita Organic Face and Body Butter Lotion Glowtion for Deep Hydration, Moisturization, Skin Repair & Brightening...
+Bella Vita Organic Anti Acne Face Wash for Oil Control, Pimples Marks Removal and Glowing Skin for Women & Men with...
+Fogg Long-Lasting Fresh, Exotic & Soothing Fragrance Intensio Scent For Men, Eau De Parfum, 100ml
+Dabur Vatika Enriched Coconut Hair Oil - 600 ml (300mlx2) | For Strong, Thick & Shiny Hair | Clinically Tested to Reduce...
+Dabur Almond Hair Oil - 580ml(290ml*2) | Provides Damage Protection | Non Sticky Formula | For  Soft & Shiny Hair | With...
+Fogg Beautiful Secret Scent, Eau De Parfum, Womens Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Fogg Make My Day Scent, Eau De Parfum, Women’s Perfume, Long-lasting Fresh & Floral Fragrance, 100ml
+Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67...
+Noise Twist Bluetooth Calling Smart Watch with 1.38" TFT Biggest Display, Up-to 7 Days Battery, 100+ Watch Faces, IP68,...
+beatXP Marv Neo 1.85” (4.6 cm) Display, Bluetooth Calling Smart Watch, Smart AI Voice Assistant, 100+ Sports Modes,...
+Fire-Boltt Phoenix Pro 1.39" Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2,...
+Fire-Boltt Phoenix Smart Watch with Bluetooth Calling 1.3",120+ Sports Modes, 240 * 240 PX High Res with SpO2, Heart...
+Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67...
+Noise Vivid Call Bluetooth Calling Smartwatch with Metallic dial, 550 nits Brightness, AI Voice Assistant, Heart Rate...
+boAt Wave Leap Call Smart Watch with 1.83" HD Display, Advanced Bluetooth Calling, Coins,Multiple Watch Faces,...
+Duas Collection T-500 S8 series Smart Watch Sleep Monitor, Distance Tracker, Calendaring, Sedentary Reminder, Text...
+Noise Pulse Go Buzz Smart Watch with Advanced Bluetooth Calling, 1.69" TFT Display, SpO2, 100 Sports Mode with Auto...
+Fire-Boltt Ninja Call Pro Smart Watch Dual Chip Bluetooth Calling, 1.69" Display, AI Voice Assistance with 100 Sports...
+beatXP Flux 1.45" (3.6 cm) Bluetooth Calling smartwatch with round HD display, 415*415 Pixel, 60 Hz refresh rate, Rotary...
+M1 6th generation Bluetooth Calling Smart Watch for Men Women D116 Smart Band Activity Tracker AIl Voice Assistant, 60...
+Fire-Boltt Ninja 3 1.83" Display Smartwatch Full Touch with 100+ Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud...
+Fire-Boltt Phoenix Pro 1.39" Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2,...
+boAt Wave Call Smart Watch with Bluetooth Calling, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces,...
+ID-116 Smartwatch for Men's Womens Boys Girls, Bluetooth Smart Fitness Band Watch with Heart Rate Activity Tracker Step...
+boAt Wave Call 2 Smart Watch with 1.83" HD Display, Advanced BT Calling, DIY Watch Face Studio, Coins, 700+Active Modes,...
+Fire-Boltt Ring 3 Smart Watch 1.8 Biggest Display with Advanced Bluetooth Calling Chip, Voice Assistance,118 Sports...
+Noise Twist Round Dial Smart Watch with Bluetooth Calling, 1.38" TFT Display, Up-to 7 Days Battery, 100+ Watch Faces,...
+beatXP Marv Neo 1.85” (4.6 cm) Display, Bluetooth Calling Smart Watch, Smart AI Voice Assistant, 100+ Sports Modes,...
+AJO Smart Watch Id-116 Bluetooth Smartwatch Wireless Fitness Band for Boys, Girls, Men, Women & Kids | Sports Gym Watch...
+Starting ₹429 | Dish drainer & more
+Starting ₹349 | Kitchen tools
+Starting ₹599 | Spice racks & more
+Starting ₹149 | Explore all deals
+Starting ₹429 | Dish drainer & more
+Starting ₹349 | Kitchen tools
+Starting ₹599 | Spice racks & more
+Starting ₹149 | Explore all deals
+Laundry & cleaners
+Cooking ingredients
+Baby care
+Starting ₹99 | Diapers & wipes
+Starting ₹149 | Soft toys
+Starting ₹299 | Baby rockers & more
+Starting ₹699 | Games & outdoor toys
+Mobiles & accessories
+Home and Kitchen
+Amazon Fashion
+Daily essentials
+Made for Amazon brands
+Alexa Devices
+
+
+An exception of type TimeoutException occurred. With Element -: all_brands - locator: (xpath, //span[text()='Brands']/../following-sibling::ul)

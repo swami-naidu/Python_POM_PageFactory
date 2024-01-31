@@ -1,0 +1,27 @@
+Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=115.0.5790.170)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BFA813+48355]
+	(No symbol) [0x00B8C4B1]
+	(No symbol) [0x00A95358]
+	(No symbol) [0x00A87D96]
+	(No symbol) [0x00A87AB9]
+	(No symbol) [0x00A967C0]
+	(No symbol) [0x00AEC4D8]
+	(No symbol) [0x00ADA536]
+	(No symbol) [0x00AB82DC]
+	(No symbol) [0x00AB93DD]
+	GetHandleVerifier [0x00E5AABD+2539405]
+	GetHandleVerifier [0x00E9A78F+2800735]
+	GetHandleVerifier [0x00E9456C+2775612]
+	GetHandleVerifier [0x00C851E0+616112]
+	(No symbol) [0x00B95F8C]
+	(No symbol) [0x00B92328]
+	(No symbol) [0x00B9240B]
+	(No symbol) [0x00B84FF7]
+	BaseThreadInitThunk [0x758C00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x771B7B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x771B7AEE+238]
+

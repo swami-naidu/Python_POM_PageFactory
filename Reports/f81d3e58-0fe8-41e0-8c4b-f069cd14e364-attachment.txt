@@ -1,0 +1,78 @@
+Departments in NewReleases:
+28
+Amazon Launchpad
+Amazon Renewed
+Baby Products
+Bags, Wallets and Luggage
+Beauty
+Books
+Clothing & Accessories
+Computers & Accessories
+Electronics
+Garden & Outdoors
+Gift Cards
+Grocery & Gourmet Foods
+Health & Personal Care
+Home & Kitchen
+Home Improvement
+Jewellery
+Kindle Store
+Movies & TV Shows
+Music
+Musical Instruments
+Office Products
+Pet Supplies
+Shoes & Handbags
+Software
+Sports, Fitness & Outdoors
+Toys & Games
+Video Games
+Watches
+
+
+No. of Departments = 6
+
+Movers and Shakers in Shoes & Handbags
+No. of Items = 4
+Red Tape mens Rso126b Walking Shoe
+DOCTOR EXTRA SOFT Doctor Slippers for Women Orthopedic Diabetic Pregnancy Non Slip Lightweight Comfortable Flat…
+EXOTIC Latest Cross Body Sling Bag for Girls/Women
+Carrylux Large Capacity Croco Pattern Tote Bags For Womens Big Purses And Handbags Ladies Big Shoulder Bag From ( Brown )
+
+Movers and Shakers in Sports, Fitness & Outdoors
+No. of Items = 4
+Strauss Adjustable Cycling Helmet with Detachable Visor | Light Weight with Superior Ventilation | Mountain, Road Bike & Skating…
+Lycan Wrist/Ankle Weights 4 kg (2 kg Each x 2 pc)… (2KG PAIR)
+Xiqarn Pull Reducer, Waist Reducer Body Shaper Trimmer for Reducing Your Waistline, Arm Exercise, Tummy Fat Burner, Body…
+Cockatoo ECO Tummy Trimmer Men and Women For Abdominal, Leg Exerciser Tummy Trimmer Sport Fitness Slimming Training Bodybuilding at Home Gym
+
+Movers and Shakers in Pet Supplies
+No. of Items = 4
+Caredom Oral Spray Mint Mouth Freshener | for Dogs & Cats | for Fight Against Bad Breath| Plaque| Tartar & Gum Disease | Without…
+Drools Absolute Vitamin Tablet- Dog Supplement, 110 Pieces
+Captain Zack 2-in-1 Moisturizing Paw Butter & Elbow Protector | Pawsitively Smooth, 100gm | For All Pets | Cream, Wax, Balm for Dry, Cracked, Chapped Paws &…
+PetCrux Smart Clump Cat Litter Inside | Pet Friendly Lavender Essential Oils | Dust Free (for Multiple Cats), 5kg
+
+Movers and Shakers in Bags, Wallets and Luggage
+No. of Items = 4
+Voltonix Umbrella Automatic Open Travel Umbrella with Wind Vent,Umbrella big size for men
+American Tourister Georgia Spinner Polycarbonate Luggage
+HAMMONDS FLYCATCHER Premium Leather Passport Holder for Men and Women - Brown Passport Cover Wallet with 1…
+Safari Omega 30L Laptop Backpack with Raincover, school bag for boys and girls, college bag, office bag, travel bag for men…
+
+Movers and Shakers in Grocery & Gourmet Foods
+No. of Items = 4
+Pintola All Natural Peanut Butter | Unsweetened | 30g Protein | Non GMO | Gluten Free | Vegan | Cholesterol Free Variants
+PartySutra Combo of 10 Dora Rakhi Set for Brother, Bhaiya, Bhabhi with Roli Chawal & Greeting Card | Premium Rakhi Hamper-RHMNX7750
+Hershey's Bar Creamy Milk Chocolate, 100 gm (Pack of 2)
+Yogabar Choco Cereal 345g | No Maida Chocos for Kids | Delicious Chocolate Chocos | Healthy Protein Food & Breakfast Cereal | No…
+
+Movers and Shakers in Jewellery
+No. of Items = 4
+The Man Company Rakhi for Brother | Auspicious Rakhi with Roli, Chawal & Card | Gift for Brother
+Riddhika Ventures Stylish Kids Rakhi with Roli Chawal and Greeting Card
+ascension Couple Bracelet Rakhi Set for Bhaiya Bhabhi Raksha Bandhan Traditional Rakhi Bracelet Set for Brother Sister in Law with Roli Tilak Bhai Bhabhi Rakhi…
+eCraftIndia Blue, Golden & Black Set of 5 Semi Precious Designer Rakhis with Roli Chawal Pack - Rakhis for Brothers
+
+
+
